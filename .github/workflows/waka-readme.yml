@@ -15,5 +15,10 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SHOW_TOTAL: true
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
           SHOW_MASKED_TIME: false
+          LANG_COUNT: 8
+          IGNORED_LANGUAGES: YAML JSON TOML
+          BLOCKS: ░▒▓█
+          SHOW_TIME: true
+          STOP_AT_OTHER: true
