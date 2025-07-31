@@ -1,4 +1,6 @@
-![ ](https://upload.wikimedia.org/wikipedia/en/b/b8/Lain_hacker_small.jpg)
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/en/b/b8/Lain_hacker_small.jpg" alt="Banner" width="50%">
+</p>
 
 <!--START_SECTION:waka-->
 
