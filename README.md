@@ -1,3 +1,5 @@
+![ ](https://upload.wikimedia.org/wikipedia/en/b/b8/Lain_hacker_small.jpg)
+
 <!--START_SECTION:waka-->
 
 ```txt
