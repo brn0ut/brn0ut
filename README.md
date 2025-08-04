@@ -4,6 +4,6 @@
 
 <div align="center">
 
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brndout&hide_progress=truet&range=all_time&langs_count=8&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brndout&hide_progress=truet&range=all_time&langs_count=8&theme=transparent&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
