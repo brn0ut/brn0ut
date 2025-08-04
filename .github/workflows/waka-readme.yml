@@ -18,7 +18,7 @@ jobs:
           TIME_RANGE: all_time
           SHOW_MASKED_TIME: false
           LANG_COUNT: 8
-          IGNORED_LANGUAGES: YAML JSON TOML sshconfig Markdown
+          IGNORED_LANGUAGES: YAML JSON TOML sshconfig Markdown gitignore
           BLOCKS: ░▒▓█
           SHOW_TIME: true
           STOP_AT_OTHER: true
