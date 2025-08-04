@@ -3,17 +3,12 @@
 </p>
 
 <div align="center">
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 4 hrs 25 mins
-
-Solidity         1 hr 10 mins
-Bash             46 mins
-Lua              19 mins
-Go               13 mins
-Rust             4 mins
-```
-
-<!--END_SECTION:waka-->
+[![](https://github-readme-stats.vercel.app/api/wakatime
+?username=brndout
+&display_format=time
+&hide_progress=true
+&range=all_time
+&langs_count=8
+&theme=tokyonight
+)](https://github.com/anuraghazra/github-readme-stats)
 </div>
