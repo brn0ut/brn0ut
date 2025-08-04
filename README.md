@@ -8,11 +8,11 @@
 ```txt
 Total Time: 4 hrs 25 mins
 
-Solidity          1 hr 10 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
-Bash              46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
-Lua               19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-Go                13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Rust              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Solidity          1 hr 10 mins      %
+Bash              46 mins           %
+Lua               19 mins           %
+Go                13 mins           %
+Rust              4 mins            %
 ```
 
 <!--END_SECTION:waka-->
